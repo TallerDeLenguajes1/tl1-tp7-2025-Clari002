@@ -1,0 +1,5 @@
+C:\Users\clari\Documents\Cursadas 2025\Taller de Lenguajes I\Semana 7 (Clases en C#)\Trabajo Practico N°7\tl1-tp7-2025-Clari002\SisPersonal\obj\Debug\net8.0\SisPersonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clari\Documents\Cursadas 2025\Taller de Lenguajes I\Semana 7 (Clases en C#)\Trabajo Practico N°7\tl1-tp7-2025-Clari002\SisPersonal\obj\Debug\net8.0\SisPersonal.AssemblyInfoInputs.cache
+C:\Users\clari\Documents\Cursadas 2025\Taller de Lenguajes I\Semana 7 (Clases en C#)\Trabajo Practico N°7\tl1-tp7-2025-Clari002\SisPersonal\obj\Debug\net8.0\SisPersonal.AssemblyInfo.cs
+C:\Users\clari\Documents\Cursadas 2025\Taller de Lenguajes I\Semana 7 (Clases en C#)\Trabajo Practico N°7\tl1-tp7-2025-Clari002\SisPersonal\obj\Debug\net8.0\SisPersonal.csproj.CoreCompileInputs.cache
+C:\Users\clari\Documents\Cursadas 2025\Taller de Lenguajes I\Semana 7 (Clases en C#)\Trabajo Practico N°7\tl1-tp7-2025-Clari002\SisPersonal\obj\Debug\net8.0\SisPersonal.sourcelink.json

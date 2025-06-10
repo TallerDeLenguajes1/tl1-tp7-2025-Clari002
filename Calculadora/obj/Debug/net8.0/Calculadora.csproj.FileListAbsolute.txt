@@ -12,3 +12,4 @@ C:\Users\clari\Documents\Cursadas 2025\Taller de Lenguajes I\Semana 7 (Clases en
 C:\Users\clari\Documents\Cursadas 2025\Taller de Lenguajes I\Semana 7 (Clases en C#)\Trabajo Practico N°7\tl1-tp7-2025-Clari002\Calculadora\obj\Debug\net8.0\Calculadora.pdb
 C:\Users\clari\Documents\Cursadas 2025\Taller de Lenguajes I\Semana 7 (Clases en C#)\Trabajo Practico N°7\tl1-tp7-2025-Clari002\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
 C:\Users\clari\Documents\Cursadas 2025\Taller de Lenguajes I\Semana 7 (Clases en C#)\Trabajo Practico N°7\tl1-tp7-2025-Clari002\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+C:\Users\clari\Documents\Cursadas 2025\Taller de Lenguajes I\Semana 7 (Clases en C#)\Trabajo Practico N°7\tl1-tp7-2025-Clari002\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
